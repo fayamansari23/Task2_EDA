@@ -49,11 +49,3 @@ A processed copy of the dataset was saved as:
 
 ---
 
-## 📌 Notes
-Please upload all three files:
-1. Task2_EDA.ipynb  
-2. titanic.csv  
-3. eda_used_titanic.csv (after running the notebook)  
-
-This completes Task 2 of the internship.
-
